@@ -1,1 +1,39 @@
+Project Overview:
+
+My project focused on analysing Amazon sales data to uncover trends, patterns, and insights that can drive business decisions. Here’s a detailed breakdown of what I accomplished:
+
+1. Data Exploration:
+Conducted a thorough analysis of the Amazon sales dataset.
+Identified key metrics such as sales volume, revenue, and customer demographics.
+
+2. Data Transformation:
+Utilized Power Query to transform and shape the data.
+Implemented various data transformation techniques to normalize and aggregate data.
+Created calculated columns and measures for more in-depth analysis.
+
+3. Data Visualization:
+Developed interactive dashboards using Power BI.
+Created a variety of visualizations, including bar charts, line graphs.
+Ensured visualizations were intuitive and effectively communicated insights.
+
+4. Performance Optimization:
+Implemented best practices to optimize report performance.
+Removed unnecessary columns and tables to reduce data model size.
+Used DAX to create efficient and dynamic calculations.
+
+5. Key Insights:
+Analysed sales trends over time to identify peak sales periods.
+Examined customer purchasing behaviour to uncover preferences and trends.
+Highlighted top-selling products and categories.
+
+Challenges and Solutions:
+
+Data Inconsistencies: Applied data cleaning techniques to handle missing values and outliers.
+Performance Issues: Optimized DAX formulas and reduced visual load to enhance report responsiveness.
+
+Skills and Tools Utilized:
+
+Data Analysis: Advanced data analysis techniques to extract meaningful insights.
+Power BI: Expertise in using Power BI for data visualization and report creation.
+DAX: Proficiency in DAX for creating dynamic and efficient calculations
 
